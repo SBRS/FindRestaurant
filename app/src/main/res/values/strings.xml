@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">FindRestaurant</string>
     <string name="title_activity_maps">Map</string>
-    <string name="get_request">GET REQUEST</string>
+    <string name="show_the_nearest_restaurants">Show the nearest restaurants</string>
 </resources>
